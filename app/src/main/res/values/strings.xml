@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Taller2</string>
+
+    <string name="lbnUno">Ingresar datos</string>
+    <string name="lbnDos">Prestamos</string>
+
+    <string name="edtCodigo">Id</string>
+    <string name="edtNombre">Nombre</string>
+    <string name="edtTelefono">Telefono</string>
+    <string name="edtFecha">Fecha</string>
+
+    <string name="lstEquipos">Equipo</string>
+
+</resources>
